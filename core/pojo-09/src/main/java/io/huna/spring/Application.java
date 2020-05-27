@@ -22,8 +22,6 @@ public class Application {
         ShoppingCart cart2 = context.getBean(ShoppingCart.class);
         cart2.addItem(dvdrw);
         System.out.println(cart2);
-
-
     }
 
 }
