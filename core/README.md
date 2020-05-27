@@ -8,3 +8,4 @@
 1. [How to use the Resources 01](./resource-01): How to use the external resources in the Spring
 1. [How to use the Resources 02](./resource-02): How to set the internationalization by each property files
 1. [Configure the POJO with Java 07](./pojo-07): Init and destroy the POJO by Annotation
+1. [Configure the POJO with Java 08](./pojo-08): Validations and Update the POJO using bean post-processor
