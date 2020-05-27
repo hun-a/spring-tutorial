@@ -9,4 +9,4 @@
 1. [How to use the Resources 02](./resource-02): How to set the internationalization by each property files
 1. [Handle the POJO 07](./pojo-07): Init and destroy the POJO by Annotation
 1. [Handle the POJO 08](./pojo-08): Validations and Update the POJO using bean post-processor
-1. [Handle the POJO 09](./pojo-08): Creating the POJO with Factory
+1. [Handle the POJO 09](./pojo-09): Creating the POJO with Factory
