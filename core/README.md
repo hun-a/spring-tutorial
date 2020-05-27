@@ -12,3 +12,4 @@
 1. [Handle the POJO 09](./pojo-09): Creating the POJO with Factory
 1. [Handle the POJO 10](./pojo-10): How to load the POJO by each profile and environment
 1. [Handle the POJO 11](./pojo-11): Let POJO know the Resource by the IoC Container
+1. [Handle the AOP 01](./aop-01): AOP Programming using the Annotation
