@@ -15,3 +15,4 @@
 1. [Handle the AOP 01](./aop-01): AOP Programming using the Annotation
 1. [Handle the AOP 02](./aop-02): Get information by the Joinpoint
 1. [Handle the AOP 03](./aop-03): Set the ordering by @Order annotation
+1. [Handle the AOP 04](./aop-04): Reuse the Pointcut by @Pointcut annotation
