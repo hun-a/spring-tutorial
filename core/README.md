@@ -14,3 +14,4 @@
 1. [Handle the POJO 11](./pojo-11): Let POJO know the Resource by the IoC Container
 1. [Handle the AOP 01](./aop-01): AOP Programming using the Annotation
 1. [Handle the AOP 02](./aop-02): Get information by the Joinpoint
+1. [Handle the AOP 03](./aop-03): Set the ordering by @Order annotation
