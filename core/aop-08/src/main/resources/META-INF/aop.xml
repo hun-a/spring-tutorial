@@ -1,0 +1,11 @@
+<!DOCTYPE aspectj PUBLIC "-//AspectJ//DTD//EN" "http://www.eclipse.org/aspectj/dtd/aspectj.dtd">
+
+<aspectj>
+    <weaver options="-verbose -showWeaveInfo -Xset:weaveJavaxPackages=true">
+        <include within="io.huna.spring.calculator.*"/>
+    </weaver>
+
+    <aspects>
+        <aspect name="io.huna.spring.aop.ComplexCachingAspect"/>
+    </aspects>
+</aspectj>
