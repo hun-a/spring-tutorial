@@ -21,3 +21,4 @@
 1. [Handle the AOP 07](./aop-07): Append the status to the POJO by Introduction
 1. [Handle the AOP 08](./aop-08): Weaving the aspect by AspectJ at the load time
 1. [Handle the AOP 09](./aop-09): Configure the aspect by AspectJ in the Spring
+1. [Handle the POJO 12](./pojo-12): Inject the POJO to the domain object using AOP
