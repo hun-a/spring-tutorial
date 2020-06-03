@@ -19,4 +19,5 @@
 1. [Handle the AOP 05](./aop-05): How to write the Pointcut expression using AspectJ
 1. [Handle the AOP 06](./aop-06): Append the new feature to the POJO by Introduction
 1. [Handle the AOP 07](./aop-07): Append the status to the POJO by Introduction
-1. [Handle the AOP 08](./aop-08): Weaving the AspectJ at the load time
+1. [Handle the AOP 08](./aop-08): Weaving the aspect by AspectJ at the load time
+1. [Handle the AOP 09](./aop-09): Configure the aspect by AspectJ in the Spring
